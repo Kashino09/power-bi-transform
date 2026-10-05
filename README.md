@@ -103,8 +103,9 @@ Neste caso foi usado **Mesclar**, e não **Anexar**. O **Anexar** empilha linhas
 
 | Arquivo | Descrição |
 |---|---|
-| `Power_BI_-_Transformação_de_Dados.pbix` | Projeto completo do Power BI Desktop, com as 2 páginas e as transformações |
-| `Power_BI_-_Transformação_de_Dados.pdf` | Exportação em PDF das 2 páginas do relatório |
+| `Power BI - Transformação de Dados.pbix` | Projeto completo do Power BI Desktop, com as 2 páginas e as transformações |
+| `Power BI - Transformação de Dados.pdf` | Exportação em PDF das 2 páginas do relatório |
+| `Power BI - Transformação de Dados.pptx` | Apresentação com as 2 páginas do relatório (um slide por página) |
 
 # Autor
 - Kelwin Paschoal
